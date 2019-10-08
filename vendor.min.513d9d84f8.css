@@ -1,7 +1,4 @@
-/*! jQuery UI - v1.9.2 - 2013-05-21
-* http://jqueryui.com
-* Includes: jquery.ui.core.css, jquery.ui.resizable.css
-* Copyright 2013 jQuery Foundation and other contributors Licensed MIT */
+
 .dl-horizontal dt,
 div.selector span,
 div.uploader span.filename {
@@ -495,15 +492,7 @@ sup {
     position: relative
 }
 
-/*!
- * Bootstrap v2.0.4
- *
- * Copyright 2012 Twitter, Inc
- * Licensed under the Apache License v2.0
- * http://www.apache.org/licenses/LICENSE-2.0
- *
- * Designed and built with all the love in the world @twitter by @mdo and @fat.
- */
+
 article,
 aside,
 details,
